@@ -1,0 +1,324 @@
+commit f0197e470fd8cf9b54e7cda93b88f4aec781994c
+Author: Augah@2001 <augustine.mupeti@students.uz.ac.zw>
+Date:   Sun Jul 21 12:38:35 2024 +0200
+
+    saving our model with joblib
+
+commit 45a5c858898ccdac2397a4fb1888f35332d25dc1
+Author: Augah@2001 <augustine.mupeti@students.uz.ac.zw>
+Date:   Sun Jul 21 12:28:39 2024 +0200
+
+    create robust pipeline
+
+commit ce53ac8876498cfe951eb4c7110e89ebad526643
+Author: Augah@2001 <augustine.mupeti@students.uz.ac.zw>
+Date:   Sun Jul 21 12:21:20 2024 +0200
+
+    data_drift_class
+
+commit eeaa1e819f9d8c0ee4259c0a85cc9c82a83a70ef
+Author: Augah@2001 <augustine.mupeti@students.uz.ac.zw>
+Date:   Sun Jul 21 12:18:18 2024 +0200
+
+    final feature engineeering
+
+
+commit bda7cf5882cc6025892cfafc24aa2009c09d92cd
+Author: Augah@2001 <augustine.mupeti@students.uz.ac.zw>
+Date:   Sat Jul 20 22:42:49 2024 +0200
+
+    remove pywin32
+
+commit c26dde58348f9b585503e937278930264b736ad6
+Author: Augah@2001 <augustine.mupeti@students.uz.ac.zw>
+Date:   Sat Jul 20 22:39:27 2024 +0200
+
+    requirements.txt
+
+commit e244e07c7a4b7b302f4e55499d0cafbdcd40b40f
+Merge: 1b141870 3376a3b0
+Author: Augah2001 <124095439+Augah2001@users.noreply.github.com>
+Date:   Sat Jul 20 20:40:53 2024 +0200
+
+    Merge pull request #1 from Augah2001/feature/API
+    
+    Feature/api
+
+commit cdfd6e1f623bf2bb7deb46c472c96203efe8427f
+Merge: 31085d63 4842a6a3
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 19:28:00 2024 +0200
+
+    Merge branch 'feature/API' of https://github.com/Augah2001/Claxon-DS-competition into feature/API
+
+commit 31085d630c28f51b99bdbc7b45715402deb99f7e
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 19:27:57 2024 +0200
+
+    removed pywin
+
+commit 4842a6a3eee296587123f37cb089d98947c865b4
+Merge: fc40a45f 1b141870
+Author: Augah2001 <124095439+Augah2001@users.noreply.github.com>
+Date:   Sat Jul 20 19:24:10 2024 +0200
+
+    Merge pull request #2 from Augah2001/main
+    
+    render api
+
+commit 1b1418707f517fa9087d85ad0ed0677d22c8d339
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 19:19:07 2024 +0200
+
+    render api
+
+commit fc40a45fec7608086ac6ee0a965d8d8ad7bd812d
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 19:18:20 2024 +0200
+
+    predict single and csv or excel
+
+commit 5e864de464e67defa21113536fdae47ae5ed17df
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 14:57:08 2024 +0200
+
+    implement base models
+
+commit 33f7a84b0462168b3ab595cfe5f11c769df7dc60
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 13:37:10 2024 +0200
+
+    create api script
+
+commit 5cec8bacc08640897ef8ca0ad5c34fa633dd8382
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 13:30:06 2024 +0200
+
+    initial pripeline creattion
+
+commit 5881df36a0d5eab28baf1ab40c87a24b5b5cf71c
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 12:02:41 2024 +0200
+
+    override catboost class in custom_catboost script
+
+commit d50504d2bd457c7cf34214d28ec4a3131e5dcafe
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 11:34:50 2024 +0200
+
+    custom_preprocess file
+
+commit 9664fa6d8cc004cdee05ed046ed6ddef9a9a2a81
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Sat Jul 20 11:28:34 2024 +0200
+
+    Model analysis by classification report and confusion matrix
+
+commit 2c514e37e546c4536d4cf3657bceef5ef6433865
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Thu Jul 18 23:00:31 2024 +0200
+
+    resampling with smote and tomek links
+
+commit 7db36dfaeb759289ef7e97b19199873108abb500
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Thu Jul 18 16:06:03 2024 +0200
+
+    roc_auc scores on subgroups
+
+commit 3ad8f06eeac7d9d68939771c8b909e231bcc70f9
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Thu Jul 18 16:03:37 2024 +0200
+
+    model analysis: subgrouping
+
+commit 170e8fc72a5913da849af1219a0acfc463d0b7c3
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Wed Jul 17 21:14:28 2024 +0200
+
+    secondary feature engineering
+
+commit 52b7141f87f4499b84eb0a602209418de720a7de
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Wed Jul 17 21:06:55 2024 +0200
+
+    feature importance analysis
+
+commit cb0e38bfcf87ad13cb4a53b3f240bd9239a4aac0
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Wed Jul 17 10:42:58 2024 +0200
+
+    compare ensemble model with base model
+
+commit defbc91ef4b23982b85c1a1a0943ee6897b5f2b5
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Wed Jul 17 10:42:11 2024 +0200
+
+    train emsemble model
+
+commit 0245ba9353f32bf9cd350bfa183550789082c2e5
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Wed Jul 17 00:18:01 2024 +0200
+
+    model evaluation
+
+commit adc08be3ec0a2eda5e2672d9d17d09fe3cb7da71
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Tue Jul 16 23:36:46 2024 +0200
+
+    reinclude redcliffe in locations
+
+commit 5d7cedf5d5ec071f8115d0682c31c408c81d73d5
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Tue Jul 16 23:08:48 2024 +0200
+
+    train model for loan amount less than 10000
+
+commit ed1d369be7b0d2f8c9492f92fc06b22d139f48f7
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Tue Jul 16 13:52:46 2024 +0200
+
+    cross validation on all models using auc to find best model
+
+commit ad069f9ebfe3374bdfc19f99ccdf229feebfb1b5
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Tue Jul 16 09:34:51 2024 +0200
+
+    contingency table and chi2 to capture significance
+
+commit 0394698e34b5dd391990ab9b7ce872ef85bf53d6
+Author: Augah@2001 <augahmups4@gmail.com>
+Date:   Mon Jul 15 23:50:11 2024 +0200
+
+    REFACTOR CODE
+
+commit 5bf09a31a52c4b2f67a6e598518efa7d7ca3d31e
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jul 15 01:05:22 2024 +0200
+
+    feature selection implementation
+
+commit 616e07ec0ad73f57d2ea0ebffadeb478db2b2640
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Sun Jul 14 23:44:56 2024 +0200
+
+    predict marital status unlabeled category
+
+commit 200dc2348c49acbae03506abfd024007ed93f327
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Thu Jul 11 21:45:34 2024 +0200
+
+    added the predict_feature class
+
+commit 5c043160f2e89837bf82492ab564cbe90ebd9a1e
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Wed Jul 10 23:33:04 2024 +0200
+
+    handle location and job missing values
+
+commit 21653ec8e846afa5af0b0687ef8677c629691d6c
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Wed Jul 10 23:06:32 2024 +0200
+
+    bivariate relationships with hue target
+
+commit 72dc4add84f10b202c2fbaa0269cb15a392d066c
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Wed Jul 10 21:57:45 2024 +0200
+
+    outlier analysis using boxplots
+
+commit 046aaaa430c7f83bfab2d3cb623b9cc73ef809e3
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Wed Jul 10 21:55:18 2024 +0200
+
+    chi square test  and normal dist test
+
+commit 271b1696ad76d49e4f2109074c2bbe7f062f44eb
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Sat Jun 22 08:01:17 2024 +0200
+
+    reviewing markdown
+
+commit 198871c6ed7fd49fd7b339989c92ccb08e816f09
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 17:02:48 2024 +0200
+
+    evaluating the model
+
+commit d1b1d1edb720b5326c68c9d9b257e5d3c2003022
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 13:20:46 2024 +0200
+
+    feature engineering
+
+commit e1239eaf1719627cae2239625f3c0975c5cdc203
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 12:56:03 2024 +0200
+
+    refactor code
+
+commit 6e7d3479b9eb742b3c2166b7901bc7482d1f5129
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 09:54:16 2024 +0200
+
+    first train
+
+commit 3dc5346826c893e7de7e94cb98ce8a35b217b13b
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 09:24:54 2024 +0200
+
+    convert disbursement date to date time format
+
+commit 095ee534333bb32b5647ab460d345aa7e5c54d00
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 09:07:26 2024 +0200
+
+    remove duplicate columns
+
+commit e003f346ecabc7e5077db809f57a2bb1fbe9c4f6
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 09:02:06 2024 +0200
+
+    multivariate relationships
+
+commit e7d9ca8fbd6ff4a8459411e33d6dccccb6547497
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 07:51:03 2024 +0200
+
+    bivariate relationship plots
+
+commit cf8c0b0717cd383cb8a7eb1e8344bao334d1cf29a
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 07:29:33 2024 +0200
+
+    exploratory data analysis
+commit cf8c0b0717cd383cb8a7eb1e8344ba334d1cf29a
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Mon Jun 17 07:13:33 2024 +0200
+
+    exploratory data analysis
+
+commit d38a5026ed03793f88b52c00829af0413ae98680
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Sun Jun 16 23:44:50 2024 +0200
+
+    missing values imputation
+
+commit b873eda8c59be22251c8c92e1ee92e4e5aaeafb0
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Sun Jun 16 21:02:12 2024 +0200
+
+    handle missing values
+
+commit 49020a33d4d45f20ac48697c9e06eb546c5130ef
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Sun Jun 16 20:30:09 2024 +0200
+
+    solving inconsistences
+
+commit 9d91a3c7167afd835c6f2a1940d2bbaa50b44bf9
+Author: Augah2001 <augahmups4@gmail.com>
+Date:   Sun Jun 16 20:21:00 2024 +0200
+
+    inittial commit

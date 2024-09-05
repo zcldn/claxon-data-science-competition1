@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+catboost = "*"
+seaborn = "*"
+scikit-learn = "*"
+xgboost = "*"
+imblearn = "*"
+pydantic = "*"
+fastapi = "*"
+uvicorn = "*"
+numpy = "==1.26.4"
+openpyxl = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"
